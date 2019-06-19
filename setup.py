@@ -50,6 +50,6 @@ setup(
         'pytest == 4.0.1',
         'russian-tagsets == 0.6',
         'scikit-learn == 0.20.1',
-        'tensorflow == 1.12.0',
+        'tensorflow == 1.14.0',
     ],
 )
